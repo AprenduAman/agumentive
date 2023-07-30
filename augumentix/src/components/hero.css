@@ -1,0 +1,139 @@
+.header{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-left: 14%;
+    
+    margin-top: 14%;
+
+
+}
+.header h2{
+    font-weight: 1000;
+    font-size: 3.4rem;
+    margin-right: 30%;
+    margin-bottom: 0%;
+}
+.header p{
+    font-size: 12px;
+    margin-bottom: 5%;
+    margin-right: 30%;
+}
+.background1{
+    display: flex;
+    flex-direction: column;
+    
+}
+.background2{
+    position: relative;
+    margin-top: 14%;
+
+}
+.background3{
+    display: flex;
+    flex-direction: row;
+    margin-left: 4.5%;
+    margin-top: 3%;
+    justify-content: space-between;
+    padding-bottom: 0%;
+    
+    
+}
+.all{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between;
+    
+    
+}
+.search{
+    
+    display: flex;
+    flex-direction: row;
+    background-color: #ffffff;
+    justify-content: center;
+    background-size: contain;
+    position: relative;
+    margin-left: 8%;
+    margin-right: 8%
+    
+}
+.search button{
+    color: whitesmoke;
+  background-color: orangered;
+   font-size: medium; 
+  border: none;
+  cursor: pointer;
+  padding: 10px 30px;
+}
+.search .search-item{
+    gap: 1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.search .search-item i{
+    height:5%;
+    weight:5%;
+    
+}
+.search-name{
+    
+    display: flex;
+    flex-direction: column;
+    
+  }
+  input{
+    border:none;
+
+  }
+  .search .search-item .search-name p{
+    font-size: 12px;
+  }
+  .customer{
+    position: relative;
+    margin-left: 12%;
+    margin-bottom: 5%;
+  }
+  .customer p{
+    font-size: 15px;
+  }
+  .why{
+    position: relative;
+    
+    font-weight: 1000;
+    width: 200px;
+        
+
+  }
+  .whyus h3{
+    font-size: 35px;
+    position: relative;
+    margin-left: 25%;
+    margin-right: -80%;
+    z-index: 5;
+  }
+  .detail{
+    position: relative;
+    font-size: 15px;
+    margin-left: 30%;
+    margin-right: 15%;
+    
+  }
+  .house2{
+    position: relative;
+    margin-top: -4%;
+    z-index: -5;
+    
+  }
+.house2 img{
+    margin-left: 1%;
+    width: 100%;
+    margin-right: 1%;
+}
+  .last{
+    display: flex;
+    flex-direction: column;
+    
+  }

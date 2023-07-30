@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f5f4480.css",
+    "main.js": "/static/js/main.1747882d.js",
+    "static/media/remixicon.svg?t=1687271883607": "/static/media/remixicon.636515c9a8963df4380d.svg",
+    "static/media/background.jpg": "/static/media/background.1c42b987b6d526e3f46a.jpg",
+    "static/media/remixicon.eot?t=1687271883607": "/static/media/remixicon.83e9a22ce7f199999169.eot",
+    "static/media/remixicon.ttf?t=1687271883607": "/static/media/remixicon.0bcb16fc20c3d365da14.ttf",
+    "static/media/home.png": "/static/media/home.3694b6446899af1b0ab4.png",
+    "static/media/remixicon.woff?t=1687271883607": "/static/media/remixicon.3f0f84f17d39491e07ff.woff",
+    "static/media/remixicon.woff2?t=1687271883607": "/static/media/remixicon.85992a032c7668836563.woff2",
+    "static/media/house2.jpg": "/static/media/house2.92d152d732a0cc610377.jpg",
+    "static/media/logo.png": "/static/media/logo.b628359e4de3eeeb36e4.png",
+    "static/media/customer.png": "/static/media/customer.a8b835dd47602225ac7b.png",
+    "index.html": "/index.html",
+    "main.1f5f4480.css.map": "/static/css/main.1f5f4480.css.map",
+    "main.1747882d.js.map": "/static/js/main.1747882d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f5f4480.css",
+    "static/js/main.1747882d.js"
+  ]
+}
